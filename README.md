@@ -47,9 +47,9 @@
 ---
 <br/>
 
-### 1차 과제
+## 1차 과제
 
-#### Login page [1차](https://github.com/likelion-10-code-review/Code-Review-Study/pull/2)
+### [Login page](https://github.com/kwonboryong/codeReview-study/tree/main/Code-Review-Study/login)
 
 [1차](https://github.com/likelion-10-code-review/Code-Review-Study/pull/2)
 
@@ -59,7 +59,7 @@
 
 <br/> <br/>
 
-### 2차 과제
+## 2차 과제
 
 
 
