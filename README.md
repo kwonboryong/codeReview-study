@@ -3,11 +3,26 @@
 <br/>
 
 코드 리뷰 스터디는 더 나은 코드 품질을 추구하는 것을 목표로 하는 스터디입니다. <br/>
-이 스터디는 각자의 코드에 대해 건설적인 피드백을 주고 받으며, 다양한 관점에서 코드를 개선할 수 있는 기회를 제공하여 개발자로서의 역량을 강화할 수 있도록 돕는 스터디입니다.
+이 스터디는 각자의 코드에 대해 건설적인 피드백을 주고 받으며, 다양한 관점에서 코드를 개선할 수 있는 기회를 제공하여 <br/> 개발자로서의 역량을 강화할 수 있도록 돕는 스터디입니다.
 
 <br/>
 
-### 목표 ✨
+### 목차
+1. 스터디 목표
+2. 활동 내용
+3. 주소
+4. 과제
+   - 1차 과제
+   - 2차 과제
+
+
+<br/>
+
+---
+
+<br/>
+
+### 스터디 목표 ✨
 - **코딩 역량 향상**
   
   - 다양한 코드 리뷰를 통해 자신의 코딩 실력을 객관적으로 평가하고, 개선할 수 있는 방법을 학습합니다.
@@ -20,7 +35,7 @@
 
   - 다른 개발자들과의 협업을 통해 팀워크와 커뮤니케이션 스킬을 향상시킵니다.
 
-<br/>
+<br/><br/>
 
 ### 활동 내용 🖱
 - **코드 리뷰 세션**
@@ -34,35 +49,29 @@
 
 <br/><br/>
 
-### Repository
-- [likelion-10-code-review](https://github.com/likelion-10-code-review)
+### 주소
+- **Repository**
+  - [likelion-10-code-review](https://github.com/likelion-10-code-review)
 
 <br/>
 
-### Notion
-- [code-review 스터디](https://www.notion.so/49cb271169f94051866d90c860d68213)
+- **Notion**
+  - [code-review 스터디](https://www.notion.so/49cb271169f94051866d90c860d68213)
 
 <br/>
 
 ---
+
 <br/>
 
 ## 1차 과제
 
 ### [Login page](https://github.com/kwonboryong/codeReview-study/tree/main/Code-Review-Study/login)
 
-[1차](https://github.com/likelion-10-code-review/Code-Review-Study/pull/2)
-
-[login page](https://github.com/kwonboryong/codeReview-study/tree/main/Code-Review-Study/login)
-
-
 
 <br/> <br/>
 
 ## 2차 과제
-
-
-
 
 
 <br/> <br/>
