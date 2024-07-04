@@ -4,7 +4,7 @@
 
 <br/>
 
-스터디 목적
+### 스터디 목적
 - 긍정적이고 건설적인 피드백 제공
 - 명확하고 구체적인 피드백 작성
 - 질문 형식의 피드백을 통해 이해도 확인
@@ -12,13 +12,13 @@
 
 <br/>
 
-Repository
-- 주소
+### Repository
+- [likelion-10-code-review](https://github.com/likelion-10-code-review)
 
 <br/>
 
-Notion
-- https://www.notion.so/49cb271169f94051866d90c860d68213
+### Notion
+- [code-review 스터디](https://www.notion.so/49cb271169f94051866d90c860d68213)
 
 <br/>
 
