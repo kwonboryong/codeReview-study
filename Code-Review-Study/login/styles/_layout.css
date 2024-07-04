@@ -1,0 +1,15 @@
+/* 로그인 전체 레이아웃 */
+.login-container {
+  width: 80%;
+  height: 78%;
+  border-radius: var(--box-border-radius);
+  background: linear-gradient(to right, var(--login-container-color-left) 50%, var(--login-container-color-right) 50%);
+  box-shadow: 0 0 5px -1px var(--login-container-box-shadow);
+
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+}

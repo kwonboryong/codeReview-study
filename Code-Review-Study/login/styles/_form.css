@@ -1,0 +1,77 @@
+/* 로그인 폼 */
+.login-form {
+  width: 21.875rem;
+  height: 25.625rem;
+  border-radius: var(--box-border-radius);
+  background-color: var(--login-form-bgc);
+  box-shadow: 0 0 5px -1px var(--login-form-box-shadow);
+  position: relative;
+
+  fieldset {
+    border: 0;
+  }
+
+
+  /* SING UP */
+  .login-form__title {
+    width: 21.875rem;
+    font-size: var(--login-form-font-size);
+    text-align: center;
+
+    margin-top: 1.875rem;
+    padding-bottom: 0.44rem;
+  }
+
+  /* SING UP bar */
+  .login-form__title--bar {
+    width: 1.32rem;
+    height: 0.13rem;
+    background-color: var(--login-form-title-bar-bgc);
+    margin: 0 auto;
+  }
+
+  .login-form__input,
+  .login-form__button {
+    font-size: var(--login-input-font-size);
+    width: 100%;
+    height: 3.125rem;
+  }
+
+
+  /* 입력칸 컴포넌트 */
+  .login-form__input {
+    margin-top: 1.25rem;
+    text-align: center;
+
+    input {
+      width: 11.25rem;
+      height: 1.88rem;
+      border: none;
+      margin: 0.625rem;
+    }
+
+    svg {
+      width: 1.13rem;
+      height: 1.13rem;
+      margin-bottom: -0.31rem;
+    }
+
+    .name-input {
+      margin-right: 2.1rem;
+    }
+
+    .email-input {
+      margin-right: 2.3rem;
+    }
+  }
+
+  /* 입력칸 bar */
+  .login-form__input--bar {
+    width: 17.8rem;
+    height: 0.06rem;
+    background-color: var(--login-form-input-bar-bgc);
+
+    margin: 0 auto;
+    margin-top: -0.31rem;
+  }
+}

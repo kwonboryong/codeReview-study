@@ -1,0 +1,30 @@
+:root {
+  --font-size: 10px;
+  --main-bgc: #f5f5f5;
+  --box-border-radius: 20px;
+
+  --login-container-color-left: #e64649;
+  --login-container-color-right: #FFFFFF;
+  --login-container-box-shadow: #808080;
+
+  --content-font-color: #FFFFFF;
+  --content-middle-font-size: 25px;
+  --content-destiny-font-size: 15px;
+  --content-font-weight: 800;
+
+  --login-form-bgc: #FFFFFF;
+  --login-form-box-shadow: #808080;
+  --login-form-font-size: 19px;
+  --login-form-title-bar-bgc: #e64649;
+  --login-form-input-bar-bgc: rgb(218, 217, 217);
+  --login-input-font-size: 13px;
+
+  --login-form-button-font-size: 16px;
+  --login-form-button-color: #FFFFFF;
+  --login-form-button-bgc: #e64649;
+  --login-form-button-box-shadow: #808080;
+  --login-form-button-border-radius: 30px;
+
+  --login-form-account-font-size: 13px;
+  --login-form-signIn-color: #e64649;
+}

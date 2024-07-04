@@ -1,0 +1,59 @@
+/* 상단, 하단 글자 */
+.content__top,
+.content__bottom,
+.content__middle {
+  position: absolute;
+}
+
+.content__top,
+.content__bottom {
+  width: 96%;
+  left: 2%;
+
+  display: flex;
+  justify-content: space-between;
+
+  p:nth-child(1) {
+    color: var(--content-font-color);
+  }
+}
+
+.content__top {
+  top: 4%;
+
+  svg {
+    width: 1.25rem;
+    height: 1.25rem;
+    cursor: pointer;
+  }
+
+  p:nth-child(1) {
+    font-size: var(--content-destiny-font-size);
+    font-weight: var(--content-font-weight);
+  }
+}
+
+.content__bottom {
+  bottom: 4%;
+
+  svg {
+    width: 0.6rem;
+    height: 0.6rem;
+    margin-bottom: -2px;
+  }
+}
+
+/* Let's Kick Now ! */
+.content__middle {
+  top: 45%;
+  left: 2%;
+
+  p {
+    color: var(--content-font-color);
+  }
+
+  p:nth-child(1) {
+    font-size: var(--content-middle-font-size);
+    font-weight: var(--content-font-weight);
+  }
+}

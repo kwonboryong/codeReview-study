@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>로그인 폼</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css"
+    />
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
+    <main>
+      <!-- 로그인 전체 레이아웃 -->
+      <div class="login-container">
+        <!-- 상단, 하단 컨텐츠 -->
+        <div class="content">
+          <div class="content__top">
+            <p>DESTINY</p>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+              <path
+                fill="#e64649"
+                d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"
+              />
+            </svg>
+          </div>
+          <div class="content__middle">
+            <p>Let's Kick Now !</p>
+            <p>It's Easy and takes less than 30 secondes.</p>
+          </div>
+          <div class="content__bottom">
+            <p>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                height="20"
+                width="12.5"
+                viewBox="0 0 320 512"
+              >
+                <path
+                  fill="#ffffff"
+                  d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z"
+                />
+              </svg>
+              Home
+            </p>
+            <p>@Copyright 2016</p>
+          </div>
+        </div>
+
+        <!-- 로그인 폼 -->
+        <form class="login-form">
+          <fieldset>
+            <p class="login-form__title">SIGN UP</p>
+            <div class="login-form__title--bar" aria-hidden="true"></div>
+
+            <!-- 입력칸 컴포넌트 -->
+            <div>
+              <!-- 이름 -->
+              <div class="login-form__input">
+                Name
+                <input type="text" class="name-input" />
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                  <path
+                    d="M304 128a80 80 0 1 0 -160 0 80 80 0 1 0 160 0zM96 128a128 128 0 1 1 256 0A128 128 0 1 1 96 128zM49.3 464H398.7c-8.9-63.3-63.3-112-129-112H178.3c-65.7 0-120.1 48.7-129 112zM0 482.3C0 383.8 79.8 304 178.3 304h91.4C368.2 304 448 383.8 448 482.3c0 16.4-13.3 29.7-29.7 29.7H29.7C13.3 512 0 498.7 0 482.3z"
+                  />
+                </svg>
+                <div class="login-form__input--bar" aria-hidden="true"></div>
+              </div>
+
+              <!-- 이메일 -->
+              <div class="login-form__input">
+                Email
+                <input type="email" class="email-input" />
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                  <path
+                    d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"
+                  />
+                </svg>
+                <div class="login-form__input--bar" aria-hidden="true"></div>
+              </div>
+
+              <!-- 비밀번호 -->
+              <div class="login-form__input">
+                Password
+                <input type="password" />
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                  <path
+                    d="M144 144v48H304V144c0-44.2-35.8-80-80-80s-80 35.8-80 80zM80 192V144C80 64.5 144.5 0 224 0s144 64.5 144 144v48h16c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V256c0-35.3 28.7-64 64-64H80z"
+                  />
+                </svg>
+                <div class="login-form__input--bar" aria-hidden="true"></div>
+              </div>
+            </div>
+
+            <!-- 버튼 -->
+            <div class="login-form__button">
+              <button type="submit">Get Started</button>
+              <p>
+                Have an account?
+                <a href="/">Sign in</a>
+              </p>
+            </div>
+          </fieldset>
+        </form>
+      </div>
+    </main>
+  </body>
+</html>

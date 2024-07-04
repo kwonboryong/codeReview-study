@@ -1,0 +1,32 @@
+/* 버튼, 계정 생성 */
+.login-form__button {
+  text-align: center;
+  position: absolute;
+  bottom: 13%;
+
+  button {
+    display: inline-block;
+    width: 80%;
+    height: 2.5rem;
+
+    font-size: var(--login-form-button-font-size);
+    color: var(--login-form-button-color);
+    background-color: var(--login-form-button-bgc);
+
+    border: none;
+    border-radius: var(--login-form-button-border-radius);
+    box-shadow: 0 0 5px -1px var(--login-form-button-box-shadow);
+    cursor: pointer;
+  }
+
+  p {
+    font-size: var(--login-form-account-font-size);
+    margin-top: 1.125rem
+  }
+
+  a {
+    color: var(--login-form-signIn-color);
+    font-weight: 600;
+    text-decoration: none;
+  }
+}
