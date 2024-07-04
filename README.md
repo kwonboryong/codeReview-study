@@ -26,7 +26,9 @@
 
 ### 1차 과제
 
+[1차](https://github.com/likelion-10-code-review/Code-Review-Study/pull/2)
 
+[login page](https://github.com/kwonboryong/codeReview-study/tree/main/Code-Review-Study/login)
 
 
 
