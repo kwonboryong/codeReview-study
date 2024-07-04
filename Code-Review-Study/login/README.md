@@ -2,6 +2,11 @@
 
 <br/>
 
+### 구현 스크린샷
+![1회차 과제 구현 스크린샷](https://github.com/kwonboryong/core-js/assets/152785122/33cb881f-07db-45f6-bbd3-361a20ba12df)
+
+<br/><br/>
+
 ### 마크업 검사
 - [x] HTML
 - [x] CSS
@@ -30,9 +35,5 @@
 
 <br/>
 
-### 구현 스크린샷
 
-![1회차 과제 완성](https://github.com/kwonboryong/core-js/assets/152785122/33cb881f-07db-45f6-bbd3-361a20ba12df)
-
-<br/>
-<br/>
+<br/><br/>
