@@ -21,7 +21,7 @@
 
 <br/>
 
-### 스터디 목표 ✨
+## 스터디 목표 ✨
 - **코딩 역량 향상**
   
   - 다양한 코드 리뷰를 통해 자신의 코딩 실력을 객관적으로 평가하고, 개선할 수 있는 방법을 학습합니다.
@@ -34,9 +34,9 @@
 
   - 다른 개발자들과의 협업을 통해 팀워크와 커뮤니케이션 스킬을 향상시킵니다.
 
-<br/><br/>
+<br/><br/><br/>
 
-### 활동 내용 🖱
+## 활동 내용 🖱
 - **코드 리뷰 세션**
   - 정기적으로 진행되는 코드 리뷰 세션에서 참가자들은 자신의 코드를 공유하고, 다른 참가자들로부터 피드백을 받습니다.
     
@@ -46,9 +46,9 @@
 - **새로운 관점 공부**
   - 코드 리뷰 과정에서 도출된 개선점을 토대로 기존 코드를 수정하고, 더 나은 방식을 학습합니다.
 
-<br/><br/>
+<br/><br/><br/>
 
-### 주소
+## 주소
 - **Repository**
   - [likelion-10-code-review](https://github.com/likelion-10-code-review)
 
@@ -57,7 +57,7 @@
 - **Notion**
   - [code-review 스터디](https://www.notion.so/49cb271169f94051866d90c860d68213)
 
-<br/>
+<br/><br/>
 
 ---
 
@@ -68,11 +68,10 @@
 ### [Login page](https://github.com/kwonboryong/codeReview-study/tree/main/Code-Review-Study/login)
 
 
-<br/> <br/>
+<br/><br/><br/>
 
 ## 2차 과제
 
 
-<br/> <br/>
-
+<br/><br/>
 
